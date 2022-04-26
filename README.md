@@ -43,3 +43,4 @@ This application will run with 'node index.js' via terminal. Please intall npm i
 https://github.com/sevalc/Team_profile_generator
 
 ### link to video 
+https://watch.screencastify.com/v/oWkd3KXC2WRgEnuCLFWo
